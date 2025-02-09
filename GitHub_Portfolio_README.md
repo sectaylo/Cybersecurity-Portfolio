@@ -1,26 +1,26 @@
 
-# Welcome to My Cybersecurity Portfolio
+# Cybersecurity Engineer | Offensive Security & AI-Powered Threat Intelligence
 
 ## 🔥 About Me
-I am a cybersecurity professional specializing in **reverse engineering, incident response, security intelligence, and offensive security**. My goal is to become the **greatest cybersecurity leader and engineer in the world**, surpassing the most seasoned professionals globally.
+**Cybersecurity Engineer, Reverse Engineer, and Threat Intelligence Specialist** with a **Bachelor’s degree in Computer Science (Cybersecurity Engineering concentration)**. I specialize in **offensive security, AI-driven threat detection, and reverse engineering**, working at the intersection of **nation-state cyber warfare, zero-day exploit research, and AI-powered cybersecurity automation**. 
 
-## 🔍 Key Skills & Expertise
-- **Reverse Engineering & Malware Analysis** (IDA Pro, Ghidra, x64dbg, Radare2)
-- **Incident Response & Threat Intelligence** (MITRE ATT&CK, YARA, Volatility)
-- **Offensive Security & Red Teaming** (Cobalt Strike, Metasploit, Empire)
-- **AI-Driven Cybersecurity Automation** (Python, TensorFlow, SOAR)
+## 🔍 Expertise and Focus Areas
+- **Advanced Reverse Engineering & Malware Analysis** – Dissecting nation-state APT malware, firmware security, and exploit development.
+- **Cyber Threat Intelligence & Incident Response** – AI-driven cyber threat detection, forensics, and adversary tracking.
+- **Offensive Security & Red Team Operations** – Red team TTP development, adversary simulation, and cyber war gaming.
+- **AI & Cybersecurity Research** – Machine learning-powered threat modeling, AI-enhanced SOC automation, and quantum-resistant security.
 
 ## 📜 Certifications & Achievements
-- OSCP | CISSP | GXPN | CCSP | Red Team Certified Expert (CRTE)
-- DEF CON, Black Hat, SANS speaker & presenter
-- Bug bounty reports featured on HackerOne, Bugcrowd
+- OSCP | CISSP | GXPN | CCSP | Red Team Certified Expert (CRTE)- In Progress
+- **Speaker at:** SANS HackFest 2024 | NJ STEM Kickoff 2023
+- **Recognized by:** SANS and the cybersecurity research community
 
-## 🛠️ Security Projects & Research
+## 🛠️ Latest Security Projects & Research
 | Project | Description | Technologies Used | Link |
 |---------|------------|-------------------|------|
-| **APT Malware Analysis** | Reverse engineering nation-state malware samples | IDA Pro, Ghidra | [GitHub Link] |
-| **AI-Powered Threat Detection** | Developing an AI model for proactive threat hunting | Python, TensorFlow, OSINT | [GitHub Link] |
-| **ICS/SCADA Security Testing** | Penetration testing industrial control systems | Modbus, Snort, Suricata | [GitHub Link] |
+| **APT Malware Analysis** | Reverse engineering nation-state malware samples | IDA Pro, Ghidra |
+| **AI-Powered Threat Detection** | Developing an AI model for proactive threat hunting | Python, TensorFlow, OSINT |
+| **ICS/SCADA Security Testing** | Penetration testing industrial control systems | Modbus, Snort, Suricata |
 
 ## 🎯 CTF Writeups & Bug Bounties
 - **Hack The Box**: [Profile Link]
@@ -28,11 +28,10 @@ I am a cybersecurity professional specializing in **reverse engineering, inciden
 - **Bug Bounty Reports**: [HackerOne Profile]
 
 ## 📢 Publications & Research Papers
-- **Dark Web Cyber Intelligence Research** – [Medium/LinkedIn Article]
-- **Post-Quantum Cryptography Challenges** – [Research Paper]
-- **Advanced AI-Powered SOC Automation** – [Conference Talk]
+- **Dark Web Cyber Intelligence Research**
+- **Post-Quantum Cryptography Challenges**
+- **AI Enhanced Purple Teaming**
 
 ## 📩 Contact & Networking
-- **LinkedIn**: [Profile Link]
-- **Email**: [Email Address]
-- **GitHub**: [GitHub Profile]
+- **LinkedIn**: [https://www.linkedin.com/in/taylor-a-lee/]
+- **GitHub**: [https://github.com/sectaylo/Cybersecurity-Portfolio]
